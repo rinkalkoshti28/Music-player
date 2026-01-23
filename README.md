@@ -1,9 +1,5 @@
 # 🎵 Music Player 
 
-A simple and responsive **Music Player** built using **HTML, CSS, and Javascript** as a part of a freeCodeCamp learning project. This application allows users to play, pause, and shuffle music playback with a clean UI.
-
-## 📌 Project Description
-
 This Music Player is a front-end web application that demonstrates core JavaScript concept such as DOM manipulation, event handling, and working with audio elements. It is designed for beginners to understand how a real world music player works in the browser.
 
 ## 🚀 Features
